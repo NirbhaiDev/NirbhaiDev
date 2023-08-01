@@ -3,7 +3,7 @@
 </div>
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mprakashgithub/count.svg" />
+  <img src="https://profile-counter.glitch.me/NirbhaiDev/count.svg" />
 </p>
 
 ## Hey there :wave:
