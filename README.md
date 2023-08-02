@@ -20,7 +20,7 @@
 
 I'm Nirbhai Tiwari. Community is :heart: | React & React Native Devlopper (from India) and :coffee: lover. 
 
-You can follow me for good stuff related to flutter/tech at [Medium.com](https://medium.com/@mailtomprakash1)
+You can follow me for good stuff related to flutter/tech at [Medium.com](https://medium.com/@nirbhaytiwari586)
 
 ## Things I am passionate about
 
