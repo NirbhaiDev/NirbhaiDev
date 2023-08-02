@@ -31,4 +31,4 @@ You can follow me for good stuff related to react/react native at [Medium.com](h
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/nirbhai-tiwari-23696ab8/)
 - You can email me at 7nirbhay@gmail.com
-- You can check my [profile](https://mprakashgithub.github.io/)
+- You can check my [profile](https://github.com/NirbhaiDev)
